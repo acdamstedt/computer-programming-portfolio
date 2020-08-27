@@ -1,5 +1,7 @@
 ## Welcome to Annika Damstedt's Computer Programming Portfolio
 
+![Typing Test](https://github.com/acdamstedt/computer-programming-portfolio/blob/gh-pages/images/typing_test_2.png?raw=true)
+
 You can use the [editor on GitHub](https://github.com/acdamstedt/computer-programming-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
